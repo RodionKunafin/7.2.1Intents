@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">7.2Intents</string>
+    <string name="editText">Введите координаты или название объекта</string>
+    <string name="btnLook">LOOK</string>
+</resources>
